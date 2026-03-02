@@ -30,3 +30,5 @@ screenshots/
 test-results/
 playwright-report/
 .pytest_cache/
+.idea/
+.vscode/
