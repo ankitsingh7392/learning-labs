@@ -32,3 +32,5 @@ playwright-report/
 .pytest_cache/
 .idea/
 .vscode/
+# Ignore Jupyter Notebook checkpoints anywhere in the project
+**/.ipynb_checkpoints/
